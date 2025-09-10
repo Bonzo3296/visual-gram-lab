@@ -89,6 +89,12 @@ yarn install
 #### 3.2 Configura le Variabili d'Ambiente
 Crea un file `.env.local` nella root del progetto:
 
+```bash
+cp env.example .env.local
+```
+
+Poi modifica `.env.local` con le tue credenziali Supabase:
+
 ```env
 VITE_SUPABASE_URL=your_supabase_url
 VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
