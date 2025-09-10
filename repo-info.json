@@ -1,0 +1,13 @@
+{
+  "name": "visual-gram-lab",
+  "description": "📸 Instagram Preview App - Create and share Instagram content previews with drag & drop, advanced caption editor, and multi-view previews",
+  "homepage": "https://github.com/alessandroperlangeli/visual-gram-lab",
+  "private": false,
+  "has_issues": true,
+  "has_projects": true,
+  "has_wiki": true,
+  "has_downloads": true,
+  "auto_init": false,
+  "gitignore_template": "Node",
+  "license_template": "mit"
+}
